@@ -1,0 +1,1 @@
+*/5 * * * * root /usr/bin/flock -n /tmp/url-monitor.lock /app/scripts/check_urls.sh >> /var/log/cron.log 2>&1

@@ -1,6 +1,6 @@
 manifestVersion: 1
-id: Gianmaria-hello-world2
-name: Hello World 2
+id: Gianmaria-Veezie_Link
+name: Veezie_Link
 tagline: Replace this tagline with your app's tagline
 icon: https://svgur.com/i/mvA.svg
 category: Development
@@ -14,7 +14,7 @@ description: >-
 
 developer: Gianmaria
 website: https://umbrel.com
-submitter: Umbrel
+submitter: Gianmaria
 submission: https://github.com/getumbrel/umbrel-hello-world-app
 repo: https://github.com/getumbrel/umbrel-hello-world-app
 support: https://github.com/getumbrel/umbrel-hello-world-app/issues
