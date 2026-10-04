@@ -1,5 +1,5 @@
 manifestVersion: 1
-id: sparkles-hello-world
+id: Gianmaria-hello-world
 name: Hello World
 tagline: Replace this tagline with your app's tagline
 icon: https://svgur.com/i/mvA.svg
@@ -12,7 +12,7 @@ description: >-
 
   You can also add newlines!
 
-developer: Umbrel
+developer: Gianmaria
 website: https://umbrel.com
 submitter: Umbrel
 submission: https://github.com/getumbrel/umbrel-hello-world-app
